@@ -14,4 +14,4 @@ COVID-19 PANDEMIC R EFFECTIVE REPRODUCTION NUMBER BASED CORRELATION DYNAMICS.
 
 
 ## Contributors 
-Nabil Arhab, Yazid Bounab, Nacer Boudjemia, Md Saroar Jahan.  
+Yazid Bounab, Nabil Arhab, Nacer Boudjemia, Md Saroar Jahan.  
